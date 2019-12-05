@@ -1,4 +1,4 @@
-console.log("javascript");
+console.log("javascriptt");
 
 const menuButton = document.querySelector(`.hamburger`);
 const dropdown = document.querySelector(`.hamburger-container`);
